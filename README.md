@@ -28,12 +28,12 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**, cursando o 4º semestre, em Brasília - DF
-- 🌐 Em formação como **Desenvolvedor Front-end**, com foco em HTML, CSS e JavaScript
+- 🌐 Em formação como **Desenvolvedor FullStack**, com JavaScript e Python
 - ☁️ Estudando para a certificação **AWS Cloud Practitioner Essentials**
 - 🐍 Desenvolvo em **Python**, com projetos de automação e interfaces gráficas
 - 🔧 Utilizo **Git** e **GitHub** com Conventional Commits em todos os projetos
 - 🚀 Em busca da minha primeira oportunidade como **Estagiário(a) de Desenvolvimento Web**
-- 💬 Fale comigo sobre front-end, automação com Python ou estudos em nuvem
+
 
 <br/>
 
