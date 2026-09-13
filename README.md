@@ -149,22 +149,6 @@ This approach helps me turn theoretical knowledge into practical experience.
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenri01&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri01&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## Contribution Activity
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizHenri01&theme=github-compact&hide_border=true" />
-</p>
-
----
 
 ## Connect With Me
 
