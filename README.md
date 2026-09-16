@@ -31,13 +31,13 @@ My goal is to turn what I learn into practical projects and progressively build 
 ### Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 **Currently developing:** SQL, Pandas, data analysis and data engineering fundamentals.
@@ -53,7 +53,7 @@ My goal is to turn what I learn into practical projects and progressively build 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ### Python Ecosystem
