@@ -53,7 +53,7 @@ My goal is to turn what I learn into practical projects and progressively build 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ### Python Ecosystem
