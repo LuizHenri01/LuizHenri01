@@ -177,4 +177,4 @@ I'm particularly interested in:
 
 ---
 
-> **Learning by building. Improving by challenging myself.**
+> **Learning by building. Improving by challenging myself**
